@@ -33,6 +33,4 @@ Use as directive
 
 ## Options
 
-####id
-
-Gist ID
+` id ` - Gist ID
