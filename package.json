@@ -1,6 +1,6 @@
 {
   "name": "angular-gist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AngularJS directive for embedding Github gists",
   "main": "Gruntfile.js",
   "scripts": {

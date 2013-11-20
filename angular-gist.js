@@ -1,3 +1,5 @@
+angular.module('gist', []);
+
 angular.module('gist')
   .directive('gist', function () {
     return {
