@@ -16,6 +16,7 @@ angular.module('gist')
         element[0].appendChild(iframe);
 
         var iframeHtml = '<html><head><base target="_parent"><style>table{font-size:12px;}</style>' +
+          '<style> @media (max-width: 600px) { body { margin: 0px } .gist { width: ' + element[0].clientWidth + 'px; } }</style>' +
           '</head><body onload="parent.document.getElementById(\'' + iframe.id + '\').style.height='+
           'document.body.scrollHeight + \'px\'"><script type="text/javascript">' +
           '!function(){"use strict";window.retargetLinks=function(){ var gists=' +
