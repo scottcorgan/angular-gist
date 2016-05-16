@@ -4,7 +4,7 @@ angular-gist
 AngularJS directive for embedding Github gists.
 
 ## Demo
-Please have a look at the demo for example usage. [demo](http://htmlpreview.github.io/?https://github.com/AWolf81/angular-gist/demo/index.html)
+Please have a look at the demo for example usage. [demo](http://htmlpreview.github.io/?https://github.com/AWolf81/angular-gist/tree/demo-app/demo/index.html)
 
 ## Install
 
