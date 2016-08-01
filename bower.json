@@ -7,7 +7,7 @@
     "Darío Cravero <dario@contentkingdom.co>"
   ],
   "description": "AngularJS directive for embedding Github gists",
-  "main": "angular-gist.min.js",
+  "main": "angular-gist.js",
   "keywords": [
     "angular",
     "github",
